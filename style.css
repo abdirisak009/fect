@@ -1,0 +1,61 @@
+.bcolor{
+    background-color: #05D0BC;
+}
+
+header{
+    background-image: url("images/header-01.jpg");
+    background-size: cover;
+}
+
+.stxt{
+    color: #FFC400;
+}
+
+.bt{
+    background-color: #05D0BC;
+    border: 1px solid #05D0BC;;
+}
+
+.bt:hover{
+    background-color: #FFC400;
+    color: white;
+}
+
+.ct{
+    background-color: #05D0BC;;
+}
+
+.icon1{
+    background-color: #05D0BC;
+    color: white;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.icon2{
+    background-color: white;
+    color: #FFC400;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.icon3{
+    background-color: #FFC400;
+    color: white;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+
+.card1{
+    background-color: #0A0D27;
+}
+
+.card2{
+    background-color:  #FFC400;;
+
+}
